@@ -23,10 +23,10 @@ These are some of the examples that I have included in the jupyter notebook. Fee
 ### Differences ::
 The Baum-Welch algorithm and the Viterbi algorithm calculate different things.
 
- Use Viterbi : The Viterbi training algorithm (as opposed to the "Viterbi algorithm") approximates the MLE to achieve a gain in speed at the cost of accuracy
- known : transition probabilities for the hidden part of your model
- known : emission probabilities for the visible outputs of your model
- Gives : the most likely complete sequence of hidden states conditional on both your outputs and your model specification.
+ *Use Viterbi : The Viterbi training algorithm (as opposed to the "Viterbi algorithm") approximates the MLE to achieve a gain in speed at the cost of accuracy*
+ * known : transition probabilities for the hidden part of your model
+ * known : emission probabilities for the visible outputs of your model
+ * Gives : the most likely complete sequence of hidden states conditional on both your outputs and your model specification.
 
 
  ***Use Baum-Welch :  The Baum-Welch algorithm is essentially the Expectation-Maximization algorithm applied to a HMM***
