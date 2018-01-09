@@ -1,4 +1,4 @@
-**Note :: Most of the functions used are adapted from some other github repos and some online materials.
+*Note :: Most of the functions used are adapted from some other github repos and some online materials.*
 
 
 # Hidden Markov Model (Implementation using the computation graphs in TensorFlow)
