@@ -31,7 +31,7 @@ The Baum-Welch algorithm and the Viterbi algorithm calculate different things.
 
  ***Use Baum-Welch :  The Baum-Welch algorithm is essentially the Expectation-Maximization algorithm applied to a HMM***
 
-***Gives : ***  
+***Gives :***  
 **The most likely hidden transition probabilities
 **The most likely set of emission probabilities given only the observed states of the model (and, usually, an upper bound on the number of hidden states)
 
