@@ -1,9 +1,9 @@
 *Note :: Most of the functions used are adapted from some other github repos and some online materials.*
 
 
-# Hidden Markov Model (Implementation using the computation graphs in TensorFlow)
+# Hidden Markov Model using Tensorflow 
 
-## Jupyter Notebook:
+## Jupyter Notebooks:
 These are some of the examples that I have included in the jupyter notebook. Feel free to add more.
 
 ## Baum Welch Algorithm
