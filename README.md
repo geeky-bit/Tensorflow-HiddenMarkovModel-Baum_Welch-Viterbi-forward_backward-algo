@@ -1,4 +1,4 @@
-*Note :: Most of the functions used are adapted from some other github repos and some online materials.*
+*_Note :: Most of the functions used are adapted from some other github repos and some online materials._*
 
 
 # Hidden Markov Model using Tensorflow 
